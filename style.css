@@ -1,0 +1,83 @@
+/*colors*/
+
+body{
+	background: #D5D1C5;
+	color: #34322D;
+	font-family: 'Popins', sans-serif;
+	margin: 0px;
+}
+
+h1{
+	font-family: 'Oswald', sans-serif;
+	font size: 85px;
+	color: #34322D;
+}
+
+h2{
+	font-family: 'Popins', sans-serif;
+	font size: 18px;
+}
+a{
+	text-decoration: none;
+	color: grey;
+
+}
+
+a:hover{
+	text-decoration: none;
+	color: red;
+
+}
+/*Custom design*/
+
+#banner{
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1511183436981-723dfccbbb8c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1041&q=80");
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 3px 3px 5px black;
+  text-align: center;
+}
+#banner h1 {
+  color: white;
+  font-size: 65px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#banner a{
+	color: yellow;
+	font-size: 35px;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.section{
+  padding: 50px;
+  font-size: 23px;
+  font-weight: lighter;
+  text-align: center;
+}
+.fab{
+	color: white;
+	font-size: 21px;
+}
+.fas{
+	color: white;
+	font-size: 21px;
+}
+
+.fab:hover{
+	color: yellow;
+	cursor: none;
+}
+.fas:hover{
+	color: yellow;
+	cursor: none;
+}
